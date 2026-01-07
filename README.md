@@ -3,5 +3,5 @@
 Do some interesting things.🇨🇳
 
 * 💼  Major in web develop and interested in Full Stack.
-* 💻  With 2  years' development experience.
+* 💻  With 6 years' development experience.
 * 📚  Advocate some new technology and knowledge.
